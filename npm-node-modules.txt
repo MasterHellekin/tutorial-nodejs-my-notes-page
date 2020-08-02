@@ -1,0 +1,10 @@
+npm install express
+npm install express-session
+npm install ejs
+npm install method-override
+npm install mongoose
+npm install passport
+npm install passport-local
+npm install bcryptjs
+npm install connect-flash
+npm install nodemon
